@@ -19,5 +19,6 @@ Uma aplicação web construída **React** e **Vite** que consome a API **Astrono
 ## 🚂 Deploy
 
 A aplicação está disponívoel online através da plataforma Vercel.
-Link:
+<br>
+Link:https://apipisnasas.vercel.app/
 
